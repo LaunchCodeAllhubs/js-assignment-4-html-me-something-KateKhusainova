@@ -1,1 +1,51 @@
-/* Write your CSS here! */
+#mainHeading {
+    color: red;
+    text-align: center;
+    display: block;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-size: 80px;
+    background-color: lightgoldenrodyellow;
+    font-family:'Times New Roman', Times, serif
+}
+
+#testP {
+    font-style: italic;
+    display: block;
+    margin-bottom: 3%;
+    text-align: center;
+    
+}
+#imageOne {
+    display: block;
+    text-align: right;
+}
+
+p {
+    margin: 8px;
+    display: block;
+    font-size: 30px;
+}
+
+h2 {
+    margin: 10px;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3 {
+    margin: 8px;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+figure {
+    display: block;
+    text-align: center;
+}
+
+.funParagraph {
+   color: green; 
+}
+
+
