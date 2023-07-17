@@ -1,3 +1,8 @@
+body {
+    margin: 8px;
+    display: block;
+    background-color: lightgoldenrodyellow;
+}
 #mainHeading {
     color: red;
     text-align: center;
@@ -7,7 +12,6 @@
     padding-left: 10px;
     padding-bottom: 10px;
     font-size: 80px;
-    background-color: lightgoldenrodyellow;
     font-family:'Times New Roman', Times, serif
 }
 
@@ -18,11 +22,13 @@
     text-align: center;
     
 }
+ul {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
 #imageOne {
-    display: block;
     text-align: right;
 }
-
 p {
     margin: 8px;
     display: block;
@@ -35,7 +41,8 @@ h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h3 {
-    margin: 8px;
+    margin: 15px;
+    margin-top: 20px;
     font-size: 35px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -43,9 +50,17 @@ figure {
     display: block;
     text-align: center;
 }
+#bonAppetit {
+    text-align: center;
+}
 
 .funParagraph {
-   color: green; 
+   color: green;
+   display: block;
+    
+}
+footer {
+    font-size: 10px;
 }
 
 
