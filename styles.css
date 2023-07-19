@@ -1,1 +1,78 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    background-color: lightgoldenrodyellow;
+}
+#mainHeading {
+    color: red;
+    text-align: center;
+    display: block;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-size: 80px;
+    font-family:'Times New Roman', Times, serif
+}
+
+.funParagraph {
+    color: green;
+    font-style: italic;
+    display: block;
+    margin-bottom: 3%;
+    text-align: center;
+    margin: 35px;
+}
+
+table {
+    text-align: center;
+    width: 100%;
+}
+
+ul {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: left;
+    margin: 50px
+}
+li {
+    margin-bottom: 1em;
+}
+
+#imageOne {
+    text-align: center;
+}
+p {
+    margin: 8px;
+    display: block;
+    font-size: 30px;
+}
+
+h2 {
+    margin: 10px;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3 {
+    margin:8px;
+    margin-top: 20px;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+figure {
+    display: block;
+    text-align: center;
+}
+#bonAppetit {
+    text-align: center;
+}
+
+#testP {
+   color: green;
+   border: 1px solid darkgreen;
+   padding: 5px;
+   text-align: center; 
+}
+
+
+
