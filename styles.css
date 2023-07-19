@@ -16,20 +16,19 @@ body {
 }
 
 .funParagraph {
+    color: green;
     font-style: italic;
     display: block;
     margin-bottom: 3%;
     text-align: center;
-    color: green;
     margin: 30px;
-    
 }
 
 table {
     text-align: center;
     width: 100%;
-
 }
+
 ul {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
