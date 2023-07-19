@@ -21,7 +21,7 @@ body {
     display: block;
     margin-bottom: 3%;
     text-align: center;
-    margin: 30px;
+    margin: 35px;
 }
 
 table {
@@ -68,7 +68,7 @@ figure {
 }
 
 #testP {
-   color: blue;
+   color: green;
    border: 1px solid darkgreen;
    padding: 5px;
    text-align: center; 
